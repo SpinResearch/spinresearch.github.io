@@ -39,7 +39,7 @@
 
 					// Images (in the format of 'url': 'alignment').
 						images: {
-							'images/Spin-logo-animated.gif': 'center'
+							'./images/Spin-logo-animated.gif': 'center'
 						},
 
 					// Delay.
